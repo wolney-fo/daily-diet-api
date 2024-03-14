@@ -1,0 +1,12 @@
+# Packages
+node_modules
+
+# Build
+build
+
+# Database
+db/*.db
+
+# Environment files
+.env
+.env.test
